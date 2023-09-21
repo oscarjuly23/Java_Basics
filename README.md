@@ -13,6 +13,6 @@ Introduction to Java Programming
 - [DemosPOO](https://github.com/oscarjuly23/Java_Basics/tree/main/DemosPOO)
 - [Metodos](https://github.com/oscarjuly23/Java_Basics/tree/main/Metodos)
 - [Recursividad](https://github.com/oscarjuly23/Java_Basics/tree/main/Recursividad)
-- [Agregacion](https://github.com/oscarjuly23/Java_Basics/tree/main/ProyectoAgregacion)
+- [Agregacion](https://github.com/oscarjuly23/Java_Basics/tree/main/Agregacion)
 - [Examen](https://github.com/oscarjuly23/Java_Basics/tree/main/Examen)
 ## Ficheros Binarios
