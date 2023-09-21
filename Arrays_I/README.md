@@ -16,3 +16,9 @@ Leer 5 números por teclado y a continuación realizar la media de los números 
 media de los números negativos y contar el número de ceros.
 -  [Exercice 7](https://github.com/oscarjuly23/Java_Basics/blob/main/Arrays_I/Eje7.java):
 Leer por teclado dos vectores de 10 números y mezclarlos en un tercer vector.
+-  [Exercice 10](https://github.com/oscarjuly23/Java_Basics/blob/main/Arrays_I/Eje10.java):
+Leer 10 enteros ordenados crecientemente. Leer un número entero N y buscarlo en el vector. Se tiene que mostrar la posición en que se encuentra. Si no está, indicarlo con un mensaje.
+-  [Exercice 11](https://github.com/oscarjuly23/Java_Basics/blob/main/Arrays_I/Eje11.java):
+Realiza un programa que calcule el doble de un vector de 10 enteros, lo almacene en otro vector y lo muestre por pantalla.
+-  [Exercice 12](https://github.com/oscarjuly23/Java_Basics/blob/main/Arrays_I/Eje12.java):
+Realiza un programa que calcule la suma y el producto de dos vectores de 5 enteros.
