@@ -8,3 +8,4 @@ Introduction to Java Programming
 - [FOR String](https://github.com/oscarjuly23/Java_Basics/tree/main/FOR_String)
 - [Matrix](https://github.com/oscarjuly23/Java_Basics/tree/main/Matrix)
 - [DO WHILE](https://github.com/oscarjuly23/Java_Basics/tree/main/DO_WHILE)
+- [Varios IF/ELSE](https://github.com/oscarjuly23/Java_Basics/tree/main/Varios)
