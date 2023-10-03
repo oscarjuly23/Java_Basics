@@ -1,0 +1,3 @@
+Primera linea = estamos escribiendo en un archivo
+Segunda linea:  continuamos en la segunda línea.
+Terminamos la escritura
