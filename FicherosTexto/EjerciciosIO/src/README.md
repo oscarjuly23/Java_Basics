@@ -1,0 +1,7 @@
+# Varios Exercicis
+-  [Exercice 1.1](https://github.com/oscarjuly23/Java_Basics/blob/main/FicherosTexto/EjerciciosIO/src/Primero/Ejercicio1.java):
+Crearemos una java main class para escribir datos en un fichero. El fichero lo guardamos con el nombre “cuentaPalabras.txt”. Creamos una clase “Java main class” que cuente las palabras existentes en el archivo anterior.
+-  [Exercice 1.2](https://github.com/oscarjuly23/Java_Basics/blob/main/FicherosTexto/EjerciciosIO/src/Primero/Ejercicio2.java):
+Se necesita crear una aplicación que modifique ciertas palabras de un fichero. El programa toma un fichero de entrada y mediante un fichero de censura creará un fichero de salida con las modificaciones necesarias. En el fichero de censura, las palabras de la primera línea corresponden a la primera frase del fichero de entrada, y así sucesivamente. Los dos ficheros de entrada se pueden crear con el bloc de notas.
+-  [Exercice 2.1](https://github.com/oscarjuly23/Java_Basics/blob/main/FicherosTexto/EjerciciosIO/src/Segundo/Ejercicio1.java):
+Desarrollaremos una clase que nos ayude en la detección de billetes falsos. Se ha detectado que un billete puede ser falso si en el número de cheque –de 10 dígitos- encontramos: tres o más ceros seguidos, o bien, cuatro o más números diferentes de cero seguidos. Nuestro programa nos preguntará el nombre del fichero de los números de cheque. Si el fichero existe irá leyendo y analizando los números sino se finalizará el programa. En el fichero “salidaCheques.txt” dejaremos constancia de los números sospechosos. 
