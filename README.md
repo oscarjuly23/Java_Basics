@@ -16,6 +16,6 @@ Introduction to Java Programming
 - [Agregacion](https://github.com/oscarjuly23/Java_Basics/tree/main/Agregacion)
 - [Examen](https://github.com/oscarjuly23/Java_Basics/tree/main/Examen)
 ## Gestió de Fitxers
-- [FicherosBinarios](https://github.com/oscarjuly23/Java_Basics/tree/main/FicherosBinarios)
+- [FicherosBinarios](https://github.com/oscarjuly23/Java_Basics/tree/main/Binaris)
 - [FicherosTexto](https://github.com/oscarjuly23/Java_Basics/tree/main/FicherosTexto)
 - [Exercices](https://github.com/oscarjuly23/Java_Basics/tree/main/Exercices)
