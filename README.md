@@ -15,4 +15,7 @@ Introduction to Java Programming
 - [Recursividad](https://github.com/oscarjuly23/Java_Basics/tree/main/Recursividad)
 - [Agregacion](https://github.com/oscarjuly23/Java_Basics/tree/main/Agregacion)
 - [Examen](https://github.com/oscarjuly23/Java_Basics/tree/main/Examen)
-## Ficheros Binarios
+## Gestió de Fitxers
+- [FicherosBinarios](https://github.com/oscarjuly23/Java_Basics/tree/main/FicherosBinarios)
+- [FicherosTexto](https://github.com/oscarjuly23/Java_Basics/tree/main/FicherosTexto)
+- [Exercices](https://github.com/oscarjuly23/Java_Basics/tree/main/Exercices)
