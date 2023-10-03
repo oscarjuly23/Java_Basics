@@ -1,4 +1,4 @@
-# Examen UF2 M03
+# Examen
 Se requiere desarrollar un programa en Java para una tienda de zapatillas deportivas que permita llevar un registro de las ventas anuales por categoría de producto (running, asfalto, triatlón, trail). El programa consta de un menú con las siguientes opciones:
 1. Introducir Venta: Permite ingresar una nueva venta especificando el nombre del artículo, el mes de la venta y el importe.
 2. Mostrar todas las ventas de un mes: Muestra las ventas totales por categoría de producto para un mes específico, incluyendo el total de ventas en ese mes.
