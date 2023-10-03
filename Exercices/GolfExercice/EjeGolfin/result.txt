@@ -1,0 +1,4 @@
+jugador reduc  Golpes por hoyo          tot  result
+1      6       1 3 6 2 1 4 3 2 4        26    20
+2      3       2 2 2 2 2 4 4 4 2        24    21
+3      2       4 5 4 3 4 1 3 5 4        33    31
