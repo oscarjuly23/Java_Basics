@@ -1,0 +1,5 @@
+12344345P;Joan;Mira;Coro;1
+46552315Q;Maria;Gomez;Piula;0
+62359847L;Pedro;Serio;Juarez;1
+132549574R;Anna;Mayor;Canta;0
+34657898T;Gemma;Sanchez;Feu;1
