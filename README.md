@@ -29,7 +29,8 @@ Aprendemos a interactuar con ficheros, tanto en formato binario como de texto. E
 - [Exercices](https://github.com/oscarjuly23/Java_Basics/tree/main/Exercices)
 
 ### Robocode
-- [Robocode](https://github.com/oscarjuly23/Java_Basics/tree/main/Robocode)
+Robocode is a programming game where the goal is to code a robot to compete against other robots in a battle arena. The player is the programmer of the robot, who will have no direct influence on the game. Instead, the player must write the AI of the robot telling it how to behave and react on events occurring in the battle arena. So the name Robocode is a short for "Robot code".
+- [Robocode](https://github.com/oscarjuly23/Java_Basics/blob/main/Tank_Destroyer/src/tank_destroyer/Tank_Destroyer.java)
 
 ###
 En este repositorio se encuentran los primeros pasos en la programación y los fundamentos en Java. Cada carpeta contiene ejercicios y ejemplos que me guiaron en mi viaje hacia la maestría en el lenguaje de programación Java.
