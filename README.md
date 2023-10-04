@@ -32,4 +32,4 @@ Aprendemos a interactuar con ficheros, tanto en formato binario como de texto. E
 - [Robocode](https://github.com/oscarjuly23/Java_Basics/tree/main/Robocode)
 
 ###
-En este repositorio se encuentran los primeros pasos en la programación y los fundamentos en Java. Cada carpeta contiene ejercicios y ejemplos que me guiaron en mii viaje hacia la maestría en el lenguaje de programación Java.
+En este repositorio se encuentran los primeros pasos en la programación y los fundamentos en Java. Cada carpeta contiene ejercicios y ejemplos que me guiaron en mi viaje hacia la maestría en el lenguaje de programación Java.
